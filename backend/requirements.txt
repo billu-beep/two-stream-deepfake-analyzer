@@ -1,0 +1,13 @@
+torch
+torchvision 
+torchaudio
+efficientnet-pytorch
+facenet-pytorch
+opencv-python
+albumentations
+tqdm
+numpy
+pandas
+matplotlib
+sklearn
+pytorch-gradcam
