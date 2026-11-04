@@ -145,6 +145,3 @@ pip install -r requirements.txt
 
 ---
 
-## Author
-
-**Lakshya Singh** · [LinkedIn](https://linkedin.com/in/lakshya-singh-243510302) · [GitHub](https://github.com/lukkydiwan)
